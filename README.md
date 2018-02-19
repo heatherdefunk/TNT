@@ -24,7 +24,7 @@ The TNT Programing language. Made for powerful general purpose programing and ne
 6  } //ends loop
 ```
 
-## Instalation
+## Installation
 You cannot install TNT `v0.1`, because it is being developed by contributors like you.
 
 ## Roadmap
