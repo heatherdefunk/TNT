@@ -42,5 +42,6 @@ You cannot install TNT `v0.1`, because it is being developed by contributors lik
 
 ## Contributors
 
-```Timothy Schoonover, founder
+```
+Timothy Schoonover, founder
 ```
