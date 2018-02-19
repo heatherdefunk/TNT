@@ -1,0 +1,14 @@
+//test to make sure TNT is working properly
+//written by timothy schoonover
+//v1.0
+/*
+Multi
+Line
+Comment
+Testing
+*/
+var age = 12;
+display(age);
+if (age != 12){
+  display("ERROR!");
+}
